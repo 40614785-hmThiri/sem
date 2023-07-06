@@ -5,3 +5,5 @@
 
 [![Releases](https://img.shields.io/github/release/40614785-hmThiri/sem/all.svg?style=flat-square)](https://github.com/40614785-hmThiri/sem/releases)
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/40614785-hmThiri/sem/main.yml?branch=develop)
