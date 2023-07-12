@@ -12,6 +12,8 @@ In case of negative consequences and conflicts, most will be cleared out using m
 
 Rule are seperated with levels. Level 1 rules are important but consequences of those are not as serious as that of level 2. In level 1, includes minimum  rules in order to avoid conflicts and miscommunication. As for level 2 rules which carry serious impact, penalty will be carried out in accordance with academic integrity rules established by Edinburgh Napier University. 
 
+Any *level 1* rules breaking are punished using point system which will be distributed among the group contributors at the start of each week. ***100*** marks will be handed out at the start of the week which will be later deducted on the percentage calculation of one's weekly total. As for example, if one
+
 ### **Level 1 Rule** 
 
 *Rule 1:* One should not be absent group meeting, especially every **Thursday** before deadline.
@@ -28,3 +30,9 @@ Rule are seperated with levels. Level 1 rules are important but consequences of 
 *Rule 2:* One should take responsibilities of one's security. If breached due to lack of cautious, one will be filed according to academic integrity.
 
 *Rule 3:* One must complete the assigned tasks before every **Friday**
+
+### **Punishment Point Subtraction Table**
+| **No** | **Rule**                                            |  **Deduct Points** |
+|:------:|-----------------------------------------------------|-------------------:|
+|   1    | Absent regular group meeting without a valid reason |                *7* |
+|   2    | **1.89**                                            |               5234 |
